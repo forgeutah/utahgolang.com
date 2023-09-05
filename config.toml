@@ -26,9 +26,9 @@ SectionPagesMenu = "main"
   url = "https://www.youtube.com/channel/UCcqNIz8w85qa25W8A_0NG6Q"
 
 [[params.social]]
-  name = "Slack (#utah)"
+  name = "Slack"
   weight = 5
-  url = "https://invite.slack.golangbridge.org"
+  url = "https://join.slack.com/t/forgeutah/shared_invite/zt-pietaeqb-HetfD2OIzn1RHtDtV~CH5g"
 
 [[params.social]]
   name = "IRC (#utahgophers)"
