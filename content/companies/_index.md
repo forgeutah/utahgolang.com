@@ -136,6 +136,14 @@ layout = "single"
       <td>Lehi</td>
     </tr>
     <tr>
+      <td><a href="https://www.vasion.com/" target="_blank" rel="nofollow">Vasion</a></td>
+      <td align="center">
+        <a href="https://github.com/PrinterLogic?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
+        <a href="https://www.linkedin.com/company/vasion-software"><i class="fab fa-linkedin"></i></a>
+      </td>
+      <td>St. George/Lehi</td>
+    </tr>
+    <tr>
       <td><a href="https://www.vivint.com/" target="_blank" rel="nofollow">Vivint</a></td>
       <td align="center">
         <a href="https://github.com/vivint?tab=repositories&amp;language=go"><i class="fab fa-github"></i></a>
