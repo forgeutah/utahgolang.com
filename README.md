@@ -1,6 +1,6 @@
 # Utah Golang Static Site
 
-[![Build Status](https://travis-ci.org/utgo/utahgolang.com.svg?branch=master)](https://travis-ci.org/utgo/utahgolang.com)
+[![Build Status](https://github.com/forgeutah/utahgolang.com/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/forgeutah/utahgolang.com/actions)
 
 The Utah Golang User Group website.
 
@@ -18,4 +18,4 @@ following guidelines to keep things simple:
   styling rules (there aren't many)
 * Separate each feature or improvement into a separate branch on a forked
   repository. Submit a pull request from each feature branch to this repository.
-* Builds are automated by Travis, don't worry about it!
+* Builds are automated by GitHub Actions, don't worry about it!
